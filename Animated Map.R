@@ -1,7 +1,7 @@
 library(plyr)
 library(rCharts)
 library(rMaps)
-datm <- read.csv('C:/Users/Michael/Documents/Economic Research Institute/Animated Plot/Time Series US Nat Gas.csv')
+datm <- read.csv()
 
 datm2 <- transform(datm,
                    State = state.abb[match(as.character(State), state.name)],
