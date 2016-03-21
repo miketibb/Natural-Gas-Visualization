@@ -1,0 +1,713 @@
+Year,State,Prod
+1991,Alabama,170846
+1992,Alabama,355101
+1993,Alabama,388023
+1994,Alabama,515273
+1995,Alabama,519660
+1996,Alabama,530839
+1997,Alabama,388595
+1998,Alabama,392395
+1999,Alabama,381700
+2000,Alabama,363466
+2001,Alabama,356808
+2002,Alabama,356061
+2003,Alabama,346146
+2004,Alabama,316021
+2005,Alabama,296529
+2006,Alabama,286220
+2007,Alabama,270407
+2008,Alabama,257784
+2009,Alabama,236030
+2010,Alabama,222932
+2011,Alabama,195580
+2012,Alabama,215708
+2013,Alabama,196325
+1991,Alaska,437822
+1992,Alaska,443596
+1993,Alaska,430349
+1994,Alaska,555401
+1995,Alaska,469548
+1996,Alaska,480828
+1997,Alaska,468312
+1998,Alaska,466647
+1999,Alaska,462965
+2000,Alaska,458995
+2001,Alaska,471442
+2002,Alaska,463302
+2003,Alaska,489756
+2004,Alaska,471898
+2005,Alaska,487281
+2006,Alaska,444723
+2007,Alaska,433485
+2008,Alaska,394882
+2009,Alaska,397078
+2010,Alaska,374228
+2011,Alaska,356225
+2012,Alaska,351261
+2013,Alaska,338182
+1991,Arizona,1226
+1992,Arizona,771
+1993,Arizona,598
+1994,Arizona,751
+1995,Arizona,557
+1996,Arizona,463
+1997,Arizona,453
+1998,Arizona,460
+1999,Arizona,473
+2000,Arizona,368
+2001,Arizona,307
+2002,Arizona,301
+2003,Arizona,444
+2004,Arizona,329
+2005,Arizona,233
+2006,Arizona,611
+2007,Arizona,654
+2008,Arizona,524
+2009,Arizona,712
+2010,Arizona,182
+2011,Arizona,169
+2012,Arizona,115
+2013,Arizona,71
+1991,Arkansas,163484
+1992,Arkansas,196908
+1993,Arkansas,190316
+1994,Arkansas,183390
+1995,Arkansas,182158
+1996,Arkansas,216698
+1997,Arkansas,202164
+1998,Arkansas,180393
+1999,Arkansas,168183
+2000,Arkansas,170173
+2001,Arkansas,165956
+2002,Arkansas,161336
+2003,Arkansas,168983
+2004,Arkansas,185705
+2005,Arkansas,189244
+2006,Arkansas,270293
+2007,Arkansas,269887
+2008,Arkansas,446455
+2009,Arkansas,679953
+2010,Arkansas,926638
+2011,Arkansas,1072212
+2012,Arkansas,1146170
+2013,Arkansas,1139654
+1991,California,378383
+1992,California,365631
+1993,California,315852
+1994,California,309427
+1995,California,379555
+1996,California,286495
+1997,California,285689
+1998,California,315275
+1999,California,382715
+2000,California,376581
+2001,California,377825
+2002,California,360206
+2003,California,337218
+2004,California,319918
+2005,California,317637
+2006,California,315209
+2007,California,307160
+2008,California,296468
+2009,California,276576
+2010,California,286841
+2011,California,250179
+2012,California,246823
+2013,California,252310
+1991,Colorado,285961
+1992,Colorado,323041
+1993,Colorado,400985
+1994,Colorado,453209
+1995,Colorado,523082
+1996,Colorado,572072
+1997,Colorado,637373
+1998,Colorado,696320
+1999,Colorado,722738
+2000,Colorado,752983
+2001,Colorado,817206
+2002,Colorado,937244
+2003,Colorado,1011285
+2004,Colorado,1079235
+2005,Colorado,1133085
+2006,Colorado,1202820
+2007,Colorado,1242571
+2008,Colorado,1389398
+2009,Colorado,1499068
+2010,Colorado,1578379
+2011,Colorado,1637577
+2012,Colorado,1709376
+2013,Colorado,1604859
+1991,Florida,4883
+1992,Florida,6656
+1993,Florida,7085
+1994,Florida,7486
+1995,Florida,6465
+1996,Florida,6006
+1997,Florida,6114
+1998,Florida,5795
+1999,Florida,5933
+2000,Florida,6491
+2001,Florida,5709
+2002,Florida,3354
+2003,Florida,3088
+2004,Florida,3123
+2005,Florida,2615
+2006,Florida,2541
+2007,Florida,1778
+2008,Florida,2437
+2009,Florida,258
+2010,Florida,12409
+2011,Florida,15125
+2012,Florida,772
+2013,Florida,292
+1991,Illinois,456
+1992,Illinois,338
+1993,Illinois,329
+1994,Illinois,322
+1995,Illinois,329
+1996,Illinois,293
+1997,Illinois,225
+1998,Illinois,203
+1999,Illinois,192
+2000,Illinois,187
+2001,Illinois,180
+2002,Illinois,177
+2003,Illinois,170
+2004,Illinois,168
+2005,Illinois,160
+2006,Illinois,170
+2007,Illinois,1394
+2008,Illinois,1192
+2009,Illinois,1444
+2010,Illinois,1701
+2011,Illinois,2122
+2012,Illinois,2125
+2013,Illinois,2888
+1991,Indiana,232
+1992,Indiana,170
+1993,Indiana,187
+1994,Indiana,103
+1995,Indiana,243
+1996,Indiana,352
+1997,Indiana,514
+1998,Indiana,602
+1999,Indiana,837
+2000,Indiana,875
+2001,Indiana,1037
+2002,Indiana,1259
+2003,Indiana,1426
+2004,Indiana,3326
+2005,Indiana,3037
+2006,Indiana,2920
+2007,Indiana,3605
+2008,Indiana,4701
+2009,Indiana,4928
+2010,Indiana,6802
+2011,Indiana,9074
+2012,Indiana,8813
+2013,Indiana,7939
+1991,Kansas,628459
+1992,Kansas,658008
+1993,Kansas,686347
+1994,Kansas,712732
+1995,Kansas,721435
+1996,Kansas,712797
+1997,Kansas,687216
+1998,Kansas,603586
+1999,Kansas,553420
+2000,Kansas,525729
+2001,Kansas,480144
+2002,Kansas,454900
+2003,Kansas,418893
+2004,Kansas,397122
+2005,Kansas,377228
+2006,Kansas,371045
+2007,Kansas,365878
+2008,Kansas,374309
+2009,Kansas,354439
+2010,Kansas,324719
+2011,Kansas,309124
+2012,Kansas,296300
+2013,Kansas,292468
+1991,Kentucky,77174
+1992,Kentucky,77584
+1993,Kentucky,84393
+1994,Kentucky,70919
+1995,Kentucky,72810
+1996,Kentucky,79690
+1997,Kentucky,77731
+1998,Kentucky,80089
+1999,Kentucky,75155
+2000,Kentucky,79470
+2001,Kentucky,79744
+2002,Kentucky,84816
+2003,Kentucky,85330
+2004,Kentucky,92214
+2005,Kentucky,89917
+2006,Kentucky,95319
+2007,Kentucky,95439
+2008,Kentucky,114116
+2009,Kentucky,113301
+2010,Kentucky,135329
+2011,Kentucky,124241
+2012,Kentucky,106121
+2013,Kentucky,94666
+1991,Louisiana,5034361
+1992,Louisiana,4914298
+1993,Louisiana,4991139
+1994,Louisiana,5169704
+1995,Louisiana,5108366
+1996,Louisiana,5289742
+1997,Louisiana,1505016
+1998,Louisiana,1551978
+1999,Louisiana,1566916
+2000,Louisiana,1455014
+2001,Louisiana,1502087
+2002,Louisiana,1361749
+2003,Louisiana,1650398
+2004,Louisiana,1353248
+2005,Louisiana,1296047
+2006,Louisiana,1361117
+2007,Louisiana,1365332
+2008,Louisiana,1377968
+2009,Louisiana,1548606
+2010,Louisiana,2210099
+2011,Louisiana,3029207
+2012,Louisiana,2955438
+2013,Louisiana,2406833
+1991,Maryland,29
+1992,Maryland,31
+1993,Maryland,27
+1994,Maryland,27
+1995,Maryland,24
+1996,Maryland,132
+1997,Maryland,115
+1998,Maryland,61
+1999,Maryland,18
+2000,Maryland,33
+2001,Maryland,32
+2002,Maryland,20
+2003,Maryland,49
+2004,Maryland,33
+2005,Maryland,46
+2006,Maryland,46
+2007,Maryland,38
+2008,Maryland,29
+2009,Maryland,43
+2010,Maryland,41
+2011,Maryland,35
+2012,Maryland,44
+2013,Maryland,32
+1991,Michigan,195749
+1992,Michigan,194815
+1993,Michigan,204634
+1994,Michigan,222657
+1995,Michigan,238201
+1996,Michigan,245741
+1997,Michigan,305951
+1998,Michigan,278077
+1999,Michigan,277364
+2000,Michigan,296556
+2001,Michigan,275035
+2002,Michigan,274476
+2003,Michigan,236986
+2004,Michigan,259680
+2005,Michigan,261114
+2006,Michigan,263009
+2007,Michigan,264906
+2008,Michigan,153128
+2009,Michigan,153736
+2010,Michigan,131117
+2011,Michigan,138162
+2012,Michigan,129332
+2013,Michigan,123621
+1991,Mississippi,108032
+1992,Mississippi,91695
+1993,Mississippi,80695
+1994,Mississippi,63448
+1995,Mississippi,95534
+1996,Mississippi,103264
+1997,Mississippi,107300
+1998,Mississippi,108068
+1999,Mississippi,111021
+2000,Mississippi,88558
+2001,Mississippi,107540
+2002,Mississippi,112979
+2003,Mississippi,133901
+2004,Mississippi,63353
+2005,Mississippi,52923
+2006,Mississippi,60532
+2007,Mississippi,73460
+2008,Mississippi,96640
+2009,Mississippi,88157
+2010,Mississippi,73722
+2011,Mississippi,81488
+2012,Mississippi,63844
+2013,Mississippi,59273
+1991,Missouri,15
+1992,Missouri,27
+1993,Missouri,14
+1994,Missouri,8
+1995,Missouri,16
+1996,Missouri,25
+1997,Missouri,4
+1998,Missouri,0
+1999,Missouri,0
+2000,Missouri,0
+2001,Missouri,0
+2002,Missouri,0
+2003,Missouri,0
+2004,Missouri,0
+2005,Missouri,0
+2006,Missouri,0
+2007,Missouri,0
+2008,Missouri,0
+2009,Missouri,0
+2010,Missouri,0
+2011,Missouri,0
+2012,Missouri,0
+2013,Missouri,0
+1991,Montana,51999
+1992,Montana,53867
+1993,Montana,54528
+1994,Montana,50416
+1995,Montana,50265
+1996,Montana,50997
+1997,Montana,52437
+1998,Montana,57647
+1999,Montana,61164
+2000,Montana,69937
+2001,Montana,81398
+2002,Montana,86075
+2003,Montana,86025
+2004,Montana,96761
+2005,Montana,107917
+2006,Montana,112847
+2007,Montana,116850
+2008,Montana,112527
+2009,Montana,98246
+2010,Montana,87540
+2011,Montana,74625
+2012,Montana,66954
+2013,Montana,63244
+1991,Nebraska,767
+1992,Nebraska,1145
+1993,Nebraska,2060
+1994,Nebraska,2812
+1995,Nebraska,2182
+1996,Nebraska,1830
+1997,Nebraska,1630
+1998,Nebraska,1655
+1999,Nebraska,1367
+2000,Nebraska,1186
+2001,Nebraska,1177
+2002,Nebraska,892
+2003,Nebraska,1167
+2004,Nebraska,1174
+2005,Nebraska,937
+2006,Nebraska,1200
+2007,Nebraska,1555
+2008,Nebraska,3081
+2009,Nebraska,2908
+2010,Nebraska,2231
+2011,Nebraska,1959
+2012,Nebraska,1329
+2013,Nebraska,1032
+1991,Nevada,0
+1992,Nevada,0
+1993,Nevada,0
+1994,Nevada,0
+1995,Nevada,12
+1996,Nevada,0
+1997,Nevada,0
+1998,Nevada,0
+1999,Nevada,0
+2000,Nevada,0
+2001,Nevada,0
+2002,Nevada,0
+2003,Nevada,0
+2004,Nevada,0
+2005,Nevada,0
+2006,Nevada,0
+2007,Nevada,0
+2008,Nevada,0
+2009,Nevada,0
+2010,Nevada,0
+2011,Nevada,0
+2012,Nevada,0
+2013,Nevada,0
+1991,New Mexico,1038284
+1992,New Mexico,1268862
+1993,New Mexico,1409428
+1994,New Mexico,1557689
+1995,New Mexico,1625837
+1996,New Mexico,1554088
+1997,New Mexico,1558634
+1998,New Mexico,1511670
+1999,New Mexico,1695296
+2000,New Mexico,1689126
+2001,New Mexico,1632079
+2002,New Mexico,1604016
+2003,New Mexico,1632539
+2004,New Mexico,1645165
+2005,New Mexico,1609222
+2006,New Mexico,1517923
+2007,New Mexico,1446203
+2008,New Mexico,1383004
+2009,New Mexico,1292184
+2010,New Mexico,1237302
+2011,New Mexico,1215772
+2012,New Mexico,1195432
+1991,New York,21705
+1992,New York,22542
+1993,New York,20620
+1994,New York,19684
+1995,New York,17325
+1996,New York,17191
+1997,New York,15409
+1998,New York,16064
+1999,New York,15424
+2000,New York,17167
+2001,New York,27146
+2002,New York,35941
+2003,New York,35043
+2004,New York,45435
+2005,New York,54377
+2006,New York,55981
+2007,New York,54942
+2008,New York,50321
+2009,New York,44849
+2010,New York,35813
+2011,New York,31126
+2012,New York,26423
+2013,New York,23459
+1991,North Dakota,53480
+1992,North Dakota,54883
+1993,North Dakota,59851
+1994,North Dakota,57805
+1995,North Dakota,49468
+1996,North Dakota,49673
+1997,North Dakota,52402
+1998,North Dakota,53186
+1999,North Dakota,52864
+2000,North Dakota,52426
+2001,North Dakota,54732
+2002,North Dakota,57048
+2003,North Dakota,55693
+2004,North Dakota,55009
+2005,North Dakota,52557
+2006,North Dakota,55273
+2007,North Dakota,60254
+2008,North Dakota,52445
+2009,North Dakota,59369
+2010,North Dakota,81837
+2011,North Dakota,97103
+2012,North Dakota,172241
+2013,North Dakota,235712
+1991,Ohio,146189
+1992,Ohio,143382
+1993,Ohio,135939
+1994,Ohio,130856
+1995,Ohio,125084
+1996,Ohio,118060
+1997,Ohio,115084
+1998,Ohio,113998
+1999,Ohio,108473
+2000,Ohio,104138
+2001,Ohio,99124
+2002,Ohio,102188
+2003,Ohio,92704
+2004,Ohio,89582
+2005,Ohio,82689
+2006,Ohio,86316
+2007,Ohio,88096
+2008,Ohio,84856
+2009,Ohio,88824
+2010,Ohio,78122
+2011,Ohio,78858
+2012,Ohio,84486
+2013,Ohio,186181
+1991,Oklahoma,2153851
+1992,Oklahoma,2017355
+1993,Oklahoma,2049940
+1994,Oklahoma,1934863
+1995,Oklahoma,1811734
+1996,Oklahoma,1734889
+1997,Oklahoma,1703888
+1998,Oklahoma,1669365
+1999,Oklahoma,1594003
+2000,Oklahoma,1612888
+2001,Oklahoma,1615385
+2002,Oklahoma,1581607
+2003,Oklahoma,1558155
+2004,Oklahoma,1655771
+2005,Oklahoma,1639310
+2006,Oklahoma,1688986
+2007,Oklahoma,1783682
+2008,Oklahoma,1886711
+2009,Oklahoma,1901556
+2010,Oklahoma,1827327
+2011,Oklahoma,1888872
+2012,Oklahoma,2023461
+2013,Oklahoma,2144000
+1991,Oregon,2741
+1992,Oregon,2581
+1993,Oregon,4004
+1994,Oregon,3221
+1995,Oregon,1924
+1996,Oregon,1436
+1997,Oregon,1172
+1998,Oregon,1066
+1999,Oregon,1292
+2000,Oregon,1213
+2001,Oregon,1111
+2002,Oregon,836
+2003,Oregon,731
+2004,Oregon,467
+2005,Oregon,454
+2006,Oregon,622
+2007,Oregon,411
+2008,Oregon,778
+2009,Oregon,822
+2010,Oregon,1407
+2011,Oregon,1341
+2012,Oregon,769
+2013,Oregon,769
+1991,Pennsylvania,149157
+1992,Pennsylvania,135635
+1993,Pennsylvania,128221
+1994,Pennsylvania,117370
+1995,Pennsylvania,108111
+1996,Pennsylvania,131917
+1997,Pennsylvania,77979
+1998,Pennsylvania,128833
+1999,Pennsylvania,171026
+2000,Pennsylvania,144892
+2001,Pennsylvania,125386
+2002,Pennsylvania,151647
+2003,Pennsylvania,155670
+2004,Pennsylvania,192939
+2005,Pennsylvania,164160
+2006,Pennsylvania,175951
+2007,Pennsylvania,182276
+2008,Pennsylvania,198294
+2009,Pennsylvania,273868
+2010,Pennsylvania,572902
+2011,Pennsylvania,1310593
+2012,Pennsylvania,2256696
+2013,Pennsylvania,3259043
+1991,South Dakota,487
+1992,South Dakota,1007
+1993,South Dakota,853
+1994,South Dakota,1001
+1995,South Dakota,848
+1996,South Dakota,905
+1997,South Dakota,687
+1998,South Dakota,772
+1999,South Dakota,704
+2000,South Dakota,650
+2001,South Dakota,562
+2002,South Dakota,529
+2003,South Dakota,551
+2004,South Dakota,531
+2005,South Dakota,447
+2006,South Dakota,963
+2007,South Dakota,997
+2008,South Dakota,1645
+2009,South Dakota,2131
+2010,South Dakota,1863
+2011,South Dakota,1849
+2012,South Dakota,15086
+2013,South Dakota,16203
+1991,Tennessee,1815
+1992,Tennessee,1730
+1993,Tennessee,1610
+1994,Tennessee,1946
+1995,Tennessee,1772
+1996,Tennessee,1652
+1997,Tennessee,1463
+1998,Tennessee,1389
+1999,Tennessee,1204
+2000,Tennessee,1121
+2001,Tennessee,1952
+2002,Tennessee,1971
+2003,Tennessee,1756
+2004,Tennessee,2055
+2005,Tennessee,2132
+2006,Tennessee,2663
+2007,Tennessee,3944
+2008,Tennessee,4702
+2009,Tennessee,5478
+2010,Tennessee,5142
+2011,Tennessee,4851
+2012,Tennessee,5821
+2013,Tennessee,5399
+1991,Texas,6280653
+1992,Texas,6145861
+1993,Texas,6249625
+1994,Texas,6353844
+1995,Texas,6330047
+1996,Texas,6470621
+1997,Texas,5167334
+1998,Texas,5227476
+1999,Texas,5054485
+2000,Texas,5282103
+2001,Texas,5282722
+2002,Texas,5141075
+2003,Texas,5243568
+2004,Texas,5067315
+2005,Texas,5276402
+2006,Texas,5548022
+2007,Texas,6123181
+2008,Texas,6960692
+2009,Texas,6818974
+2010,Texas,6715294
+2011,Texas,7112863
+2012,Texas,7475495
+2013,Texas,7545401
+1991,Utah,144817
+1992,Utah,171293
+1993,Utah,225402
+1994,Utah,270858
+1995,Utah,241291
+1996,Utah,250766
+1997,Utah,257142
+1998,Utah,277341
+1999,Utah,262614
+2000,Utah,269286
+2001,Utah,283913
+2002,Utah,274739
+2003,Utah,268060
+2004,Utah,277970
+2005,Utah,301223
+2006,Utah,348321
+2007,Utah,376408
+2008,Utah,433564
+2009,Utah,444163
+2010,Utah,432044
+2011,Utah,457525
+2012,Utah,490393
+2013,Utah,470865
+1991,Virginia,14578
+1992,Virginia,24081
+1993,Virginia,36719
+1994,Virginia,49159
+1995,Virginia,48521
+1996,Virginia,53108
+1997,Virginia,56920
+1998,Virginia,56020
+1999,Virginia,70670
+2000,Virginia,69724
+2001,Virginia,69903
+2002,Virginia,73915
+2003,Virginia,141535
+2004,Virginia,82201
+2005,Virginia,85862
+2006,Virginia,103026
+2007,Virginia,112055
+2008,Virginia,128455
+2009,Virginia,140738
+2010,Virginia,147256
+2011,Virginia,151095
+2012,Virginia,146407
+2013,Virginia,139383
